@@ -1,4 +1,4 @@
-# SkillFit - AI-Powered Resume Analyzer & Job Match System
+# SkillFit: AI-Powered Resume Analyzer & Job Match System
 <img width="1891" height="942" alt="Screenshot 2025-12-12 235948" src="https://github.com/user-attachments/assets/e3ef6d64-1f9c-4e09-99b3-9dc1afc22993" />
 
 A modern, scalable, and serverless Resume Analyzer built with Puter.js that helps users upload resumes, evaluate them using AI, match candidates to job descriptions, and receive detailed ATS-style feedback - all directly in the browser with no backend required.
