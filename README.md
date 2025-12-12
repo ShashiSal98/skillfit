@@ -1,6 +1,7 @@
 # SkillFit - AI-Powered Resume Analyzer & Job Match System
+<img width="1891" height="942" alt="Screenshot 2025-12-12 235948" src="https://github.com/user-attachments/assets/e3ef6d64-1f9c-4e09-99b3-9dc1afc22993" />
 
-A modern, scalable, and serverless Resume Analyzer built with Puter.js that helps users upload resumes, evaluate them using AI, match candidates to job descriptions, and receive detailed ATS-style feedback — all directly in the browser with no backend required.
+A modern, scalable, and serverless Resume Analyzer built with Puter.js that helps users upload resumes, evaluate them using AI, match candidates to job descriptions, and receive detailed ATS-style feedback - all directly in the browser with no backend required.
 
 ## 🚀 Features
 
@@ -86,37 +87,6 @@ A modern, scalable, and serverless Resume Analyzer built with Puter.js that help
 - Use "Clear Data" button in the header to delete all data
 - Your data is stored securely and privately via Puter.js
 
-## 🏗️ Project Structure
-
-```
-skillfit/
-├── src/
-│   ├── components/       # React components
-│   │   └── Layout.tsx
-│   ├── lib/             # Utility libraries
-│   │   ├── puter.ts     # Puter.js integration
-│   │   ├── pdfParser.ts # PDF text extraction
-│   │   ├── aiAnalyzer.ts # AI analysis engine
-│   │   └── jobMatcher.ts # Job matching algorithm
-│   ├── pages/           # Page components
-│   │   ├── Auth.tsx
-│   │   ├── Dashboard.tsx
-│   │   ├── ResumeUpload.tsx
-│   │   ├── ResumeAnalysis.tsx
-│   │   └── JobMatching.tsx
-│   ├── store/           # State management
-│   │   └── useStore.ts
-│   ├── types.ts         # TypeScript types
-│   ├── App.tsx          # Main app component
-│   ├── main.tsx         # Entry point
-│   └── index.css        # Global styles
-├── index.html
-├── package.json
-├── tsconfig.json
-├── vite.config.ts
-└── tailwind.config.js
-```
-
 ## 🎯 Key Features Explained
 
 ### ATS Scoring
@@ -186,9 +156,6 @@ npm run lint
 
 - AI analysis uses browser-based algorithms. For more advanced AI capabilities, you can integrate Puter.js AI services or other browser-compatible AI APIs
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
@@ -196,7 +163,6 @@ This project is open source and available under the MIT License.
 
 ---
 
-Built with ❤️ using Puter.js for a serverless, privacy-first experience.
 
 
 
